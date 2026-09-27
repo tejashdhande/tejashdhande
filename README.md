@@ -121,6 +121,6 @@ I prefer practical engineering solutions with clear architecture, reliable data 
 
 ## 🤝 Let's Connect
 
-**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/tejashdhande/)
+**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/tejasdhande/)
 
 **GitHub:** [@tejashdhande](https://github.com/tejashdhande)
